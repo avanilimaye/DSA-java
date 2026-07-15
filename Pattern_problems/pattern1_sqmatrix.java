@@ -1,4 +1,4 @@
-package Patterns;
+package Pattern_problems;
 //take input n and print a square matrix n by n of stars
 
 public class pattern1_sqmatrix 
