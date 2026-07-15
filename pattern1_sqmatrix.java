@@ -17,3 +17,10 @@ public class pattern1_sqmatrix
     }
     
 }
+/* O/P
+*****
+*****
+*****
+*****
+*****
+*/
