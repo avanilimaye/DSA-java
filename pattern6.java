@@ -10,12 +10,14 @@ class Main
                 System.out.print(j+1);
             }
             System.out.println();
-        }
-
-        
+        }        
     }
-
 }
 /*
-
+123456
+12345
+1234
+123
+12
+1
 */
