@@ -1,5 +1,4 @@
-package Pattern_problems;
-class Main
+class pattern12
 {
     public static void main(String[] args)
     {
@@ -10,15 +9,16 @@ class Main
             {
                 System.out.print(j+1);
             }
+            for(int k=0;k<2*(n-i-1);k++)
+            {
+                System.out.print(" ");
+            }
+            for(int j=i+1;j>=1;j--)
+            {
+                System.out.print(j);
+            }
             System.out.println();
         }
-
+ 
     }
 }
-/*
-1
-12
-123
-1234
-12345
-*/
