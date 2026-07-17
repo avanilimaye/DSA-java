@@ -17,3 +17,14 @@ class Main
         }
     }
 }
+
+
+/*
+PS D:\DSAJAVA\Pattern_problems> java pattern7.java
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+*/
