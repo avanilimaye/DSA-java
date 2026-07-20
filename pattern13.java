@@ -15,6 +15,7 @@ public class pattern13
         }
     }
 }
+<<<<<<< HEAD:Pattern_problems/pattern13.java
 /*
 
 1 
@@ -23,3 +24,5 @@ public class pattern13
 7 8 9 10 
 11 12 13 14 15 
  */
+=======
+>>>>>>> e35b8f25aa877f00d115e34455ec2622d5cbbd20:pattern13.java
