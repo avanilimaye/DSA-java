@@ -40,6 +40,13 @@ public class secondhighest
             secondfreq=hash[j];
             secondhighest=j;
         }
+        if (secondhighest == 0)
+        {
+              //return -1;
+              System.out.println("-1");
+              /*in cases where array may be consisiting 
+              of a single element*/
+        }
     }
     System.out.println("second highest element:"+secondhighest);
     System.out.println("its frequency:"+secondfreq);
