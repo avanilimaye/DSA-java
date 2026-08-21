@@ -5,7 +5,7 @@ public class missingnumber
     public static void main(String[] args) 
     {
         //given numbers 0 to N, find the number missing among them
-        int[] nums=c//3 missing
+        int[] nums={0,1,2,4,5};//3 missing
         int n=nums.length;
         int sum= n*(n+1)/2;//sum of n natural nos
         int sum1=0;
