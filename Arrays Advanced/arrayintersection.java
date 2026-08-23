@@ -1,6 +1,7 @@
 import java.util.*;
 public class arrayintersection 
 {
+    //BRUTE USING LINEAR SEARCH + VISTED
     public static void main(String[] args) 
     {
         int nums1[]={1,2,2,3,4,5,6,8};
