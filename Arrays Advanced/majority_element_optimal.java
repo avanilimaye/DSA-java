@@ -28,8 +28,8 @@ public class majority_element_optimal
            }
         }
         System.out.println("Majority:"+candidate);
-
-
-
     }
 }
+/*
+Majority:5
+*/
