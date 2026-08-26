@@ -23,3 +23,6 @@ public class majority_element_brute
         System.out.println("no majority");
     }
 }
+/*
+majority:3
+*/
