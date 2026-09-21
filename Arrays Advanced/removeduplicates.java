@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class removeduplicates_brute 
+public class removeduplicates 
 {
     public static void main(String[] args) 
     {
